@@ -3,13 +3,13 @@
 ## Test Scenarios 
 
 
-## 1. Find the number
+## 1. Number Sequence Puzzle
 
 <img src="https://github.com/user-attachments/assets/278477aa-c575-453f-aac1-a203ddc92377" width="49%" height="50%">
  
 <img src="https://github.com/user-attachments/assets/eab51ccd-7b00-456d-a720-9e91ae6381a8" width="49%" height="50%">
 
- ## 2. Find the number 
+ ## 2. Number Sequence Puzzle
 
 <img src="https://github.com/user-attachments/assets/656e5e82-7fe6-4710-ad84-974330cce81b" width="49%" height="50%">
  
@@ -17,7 +17,7 @@
  
 <img src="https://github.com/user-attachments/assets/1a73f80f-41e8-4e9a-91d1-b65623f28d59" width="49%" height="50%">
 
-## 3. Logic 
+## 3. Visual Reasoning Problem
 
 <img src="https://github.com/user-attachments/assets/0a91a9d4-091a-43e4-9089-c2eed7853812" width="49%" height="50%">
 
@@ -25,17 +25,15 @@
 
 <img src="https://github.com/user-attachments/assets/300dcf18-3244-44c3-85ea-a00fd0e8cd77" width="49%" height="50%">
  
-## 4. Logic 
+## 4. Visual Reasoning Problem
 
-<img src="   " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/2ec10bc0-fd74-438c-9803-6e68d4e7833c" width="49%" height="50%">
 
-
-
-
+<img src="https://github.com/user-attachments/assets/416bbc31-bc0e-488b-a4ca-c0dd4ad7114a" width="49%" height="50%">
 
 ## 5. 
 
-<img src="   " width="49%" height="50%">
+
 
 <img src="   " width="49%" height="50%">
 
