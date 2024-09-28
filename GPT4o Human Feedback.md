@@ -1,7 +1,16 @@
 # GPT4o Human Feedback
+----
+
+当前大型语言模型（LLM）的智能性仍有待进一步提升。尽管这些模型在数据压缩和记忆方面表现出色，但它们在推理能力上仍然存在明显不足。通过“爱丽丝梦游仙境”测试，我们发现LLM在解决推理问题时频繁失败，显示出它们更擅长复述既有的模式，而无法灵活应对未知问题。AI发展的真正挑战在于从单纯的记忆向主动推理转变，能够在面对新问题时具备灵活思考的能力。在与ChatGPT-4o就“爱丽丝”相关问题的对话中，我们进一步验证了AI在推理方面的不足，这表明当前技术距离实现真正的智能仍有较大差距。未来，AI的发展亟需在深度学习和主动推理能力上取得突破，才能实现真正的智能演进。接下来，通过对 Number Sequence Puzzle、Visual Reasoning Problem 和 Logical Sequence Questions 等领域的对话，我们总结了ChatGPT-4o与人类对话中存在错误的案例，并将在后续研究中进一步探讨这些问题。
+
+
+<img src="https://github.com/user-attachments/assets/36144833-d534-4620-a06e-f363826b13e4" width="100%" height="50%">
+ 
+<img src="https://github.com/user-attachments/assets/7ee735c2-f892-4bd0-83f1-6368c9a5d7f8" width="100%" height="50%">
+
+----
 
 ## Test Scenarios 
-
 
 ## 1. Number Sequence Puzzle
 
@@ -155,21 +164,344 @@
 
 <img src="https://github.com/user-attachments/assets/522e76cd-2b20-499d-9f9c-74e550dfb46b" width="49%" height="50%">
 
-## 21.
+## 21. Number Sequence Puzzle
+
+<img src="https://github.com/user-attachments/assets/38dc7f65-818f-4ad1-a820-43f99af8321e" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/174b8cce-9dab-43ff-8635-b3c63e1a8b95" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/20c30ea9-0fe4-4264-ac41-32dd0ec4fec7" width="49%" height="50%">
+
+## 22. Logical sequence questions
+
+<img src="https://github.com/user-attachments/assets/b6c2b7eb-aa8d-4b6e-916d-4267bf0e560e" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/489e6bc6-686c-4ed1-9dff-7733b3b02348" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/a407b0e0-412a-4dcf-b5ca-f3bdc5ebb58b" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/76cbfd4c-80bd-4f02-b51f-6723034b57f2" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/68c986b5-e0b2-4958-b0e4-ac278d5a1dff" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/bcd59c10-9a76-440e-8674-6635eac119f2" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/c56949bf-89b6-42ce-bd65-7a99900c5dc7" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/cf1d4d5b-d19e-4216-847d-a7b7554e34fe" width="49%" height="50%">
+
+## 23. Visual Reasoning Problem
+
+<img src="https://github.com/user-attachments/assets/9f923d1a-7d7d-44fb-aaa7-5c954402e02c" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/50c285a7-476f-416a-8f32-58ee5d5c7a59" width="49%" height="50%">
+
+## 24. Visual Reasoning Problem
+
+<img src="https://github.com/user-attachments/assets/e7f5824d-7361-44a3-9856-b3155680397a" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/67384c2a-20ce-4cf3-8029-0f33331f2a51" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/86a38977-6ca3-49b3-87a6-4548a48b063a" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/fe7ab8f2-29ce-4baa-935e-25d5192b28cc" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/8f00a4ab-27c0-419c-81ed-a80537a5f422" width="49%" height="50%">
+
+## 25. Visual Reasoning Problem
+
+<img src="https://github.com/user-attachments/assets/c6e6f5ac-fbcb-406b-b051-5f04e7d5e3bb" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/9828e2d5-84eb-4217-b271-aa6d31058120" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/727d34d4-9e11-49aa-8cd3-cd5541b5946c" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/675577c5-de87-46e7-b13f-6d8287ac8a39" width="49%" height="50%">
+
+## 26. Visual Reasoning Problem
+
+<img src="https://github.com/user-attachments/assets/3e2ad3c6-7271-40d9-8fcc-0d23af665b7d" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/d3564d28-dd6c-418c-8f3c-3b045c1c18bf" width="49%" height="50%">
+
+## 27. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 28. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 29. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 30. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 31. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 32. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 33. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 34. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 35. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 36. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 37. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 38. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 39. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 40. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 41. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 42. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 43. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 44. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 45. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 46. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 47. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 48. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 49. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 50. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 51. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 52. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 53. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+ 
+
+## 54. 
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
