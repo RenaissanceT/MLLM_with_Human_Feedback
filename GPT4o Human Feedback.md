@@ -276,7 +276,7 @@
 
 <img width="760" alt="Screenshot 2024-10-21 at 12 22 43 AM" src="https://github.com/user-attachments/assets/ef49f2e3-ee6b-4d76-8d42-94c832363b23">
 
-<img src="https://github.com/user-attachments/assets/cb594e89-e68e-469d-9223-12ca2007aa94" width="99%" height="50%">
+<img src="https://github.com/user-attachments/assets/cb594e89-e68e-469d-9223-12ca2007aa94" width="49%" height="50%">
 
 <img src="https://github.com/user-attachments/assets/1823148c-b0fe-4fe3-9ec7-5a5655aac99e" width="49%" height="50%">
 
