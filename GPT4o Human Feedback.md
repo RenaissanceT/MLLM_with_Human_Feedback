@@ -241,15 +241,76 @@
 
 <img src="https://github.com/user-attachments/assets/2c49435f-d346-4233-a7b0-501df30ef50d" width="49%" height="50%">
 
-## 30. 
+## 30. Visual Reasoning Problem
+
+### Answer: D
+
+<img src="https://github.com/user-attachments/assets/8efe7993-7250-460b-a67d-a69d672dad8f" width="99%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/e989b0b7-da15-473c-9261-03354a981241" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/d923cef1-5e57-45b7-a20f-6f03553be836" width="49%" height="50%">
+
+## 31. Visual Reasoning Problem
+
+### Answer: C
+
+<img src="https://github.com/user-attachments/assets/426f8592-83ad-4eea-ba34-0b02bf56a3d6" width="99%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/5321152c-52c0-42f9-a210-abe34c8ac082" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/bef71f00-c971-4005-8624-3e49cae31ace" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/0231ee44-385d-46f8-9de2-8daeac498ed0" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/88b775d9-ccf3-47db-a531-a356d96acecf" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/1a92e796-ae49-4a9e-9c89-38537e5fd5d8" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/1f031b46-565e-423a-b272-04c9e00940ed" width="49%" height="50%">
+
+
+## 32. Visual Reasoning Problem
+
+### Answer: B
+
+<img width="760" alt="Screenshot 2024-10-21 at 12 22 43 AM" src="https://github.com/user-attachments/assets/ef49f2e3-ee6b-4d76-8d42-94c832363b23">
+
+<img src="https://github.com/user-attachments/assets/cb594e89-e68e-469d-9223-12ca2007aa94" width="99%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/1823148c-b0fe-4fe3-9ec7-5a5655aac99e" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/857522e0-89e9-4378-9648-edf6cb6ca7c3" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/dedbea6a-87ee-45ca-af9d-e659ede95200" width="49%" height="50%">
+
+## 33. Visual Reasoning Problem
+
+### Answer:
+
+<img src=" " width="99%" height="50%">
 
 <img src=" " width="49%" height="50%">
 
 <img src=" " width="49%" height="50%">
 
+
+## 34. Visual Reasoning Problem
+
+### Answer:
+
+<img src=" " width="99%" height="50%">
+
 <img src=" " width="49%" height="50%">
 
- 
+<img src=" " width="49%" height="50%">
+
+
+
+
+
+
+
 
  
 
