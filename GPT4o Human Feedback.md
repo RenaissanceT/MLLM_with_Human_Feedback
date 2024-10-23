@@ -1,4 +1,4 @@
-<img width="774" alt="Screenshot 2024-10-23 at 8 36 27 PM" src="https://github.com/user-attachments/assets/4598792a-eab2-4124-ae41-32f216b75962"><img width="853" alt="Screenshot 2024-10-23 at 8 31 26 PM" src="https://github.com/user-attachments/assets/162939df-74b0-475d-9d7d-e1dae62e0741"><img width="774" alt="Screenshot 2024-10-23 at 8 23 34 PM" src="https://github.com/user-attachments/assets/4e7e045a-0605-4dfc-99c7-ada5d462ca85"><img width="774" alt="Screenshot 2024-10-23 at 8 11 50 PM" src="https://github.com/user-attachments/assets/30e030e9-93e6-4744-9ddc-d47483a3fcd1"># GPT4o Human Feedback
+# GPT4o Human Feedback
 ----
 
 当前大型语言模型（LLM）的智能性仍有待进一步提升。尽管这些模型在数据压缩和记忆方面表现出色，但它们在推理能力上仍然存在明显不足。通过“爱丽丝梦游仙境”测试，我们发现LLM在解决推理问题时频繁失败，显示出它们更擅长复述既有的模式，而无法灵活应对未知问题。AI发展的真正挑战在于从单纯的记忆向主动推理转变，能够在面对新问题时具备灵活思考的能力。在与ChatGPT-4o就“爱丽丝”相关问题的对话中，我们进一步验证了AI在推理方面的不足，这表明当前技术距离实现真正的智能仍有较大差距。未来，AI的发展亟需在深度学习和主动推理能力上取得突破，才能实现真正的智能演进。接下来，通过对 Number Sequence Puzzle、Visual Reasoning Problem 和 Logical Sequence Questions 等领域的对话，我们总结了ChatGPT-4o与人类对话中存在错误的案例，并将在后续研究中进一步探讨这些问题。
