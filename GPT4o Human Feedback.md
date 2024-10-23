@@ -317,8 +317,6 @@
 
 ### Answer: D _(GPT answered right)_
 
-<img src="https://github.com/user-attachments/assets/60391ee0-1e25-44d6-a04f-cee85f91165" width="99%" height="50%">
-
 <img src="https://github.com/user-attachments/assets/254e21a0-eb8f-49b6-8b01-749b7d4fd6f5" width="49%" height="50%">
 
 <img src="https://github.com/user-attachments/assets/1b56d571-e5bf-4085-b6d4-a8eb1bf53dab" width="49%" height="50%">
@@ -434,7 +432,7 @@
 
 ### Answer: A _(GPT answered right)_
 
-<img src="https://github.com/user-attachments/assets/fd2d5e4d-a55f-4a02-a6ea-98f81c0b4ed0" width="99%" height="50%">
+<img src="https://github.com/user-attachments/assets/fd2d5e4d-a55f-4a02-a6ea-98f81c0b4ed0" width="49%" height="50%">
 
 <img src="https://github.com/user-attachments/assets/b65cebcf-fc4d-4af5-87c4-fdca4daf63e5" width="49%" height="50%">
 
@@ -472,7 +470,7 @@
 
 ### Answer: C _(GPT answered right)_
 
-<img src="https://github.com/user-attachments/assets/e440e49c-e9ca-4345-a889-90e7bbef19c6" width="99%" height="50%">
+<img src="https://github.com/user-attachments/assets/e440e49c-e9ca-4345-a889-90e7bbef19c6" width="49%" height="50%">
 
 <img src="https://github.com/user-attachments/assets/c54f8283-442d-4328-bd32-255ae190b087" width="49%" height="50%">
 
