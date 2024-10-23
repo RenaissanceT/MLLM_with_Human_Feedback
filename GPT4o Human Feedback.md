@@ -1,4 +1,4 @@
-# GPT4o Human Feedback
+<img width="774" alt="Screenshot 2024-10-23 at 8 11 50 PM" src="https://github.com/user-attachments/assets/30e030e9-93e6-4744-9ddc-d47483a3fcd1"># GPT4o Human Feedback
 ----
 
 当前大型语言模型（LLM）的智能性仍有待进一步提升。尽管这些模型在数据压缩和记忆方面表现出色，但它们在推理能力上仍然存在明显不足。通过“爱丽丝梦游仙境”测试，我们发现LLM在解决推理问题时频繁失败，显示出它们更擅长复述既有的模式，而无法灵活应对未知问题。AI发展的真正挑战在于从单纯的记忆向主动推理转变，能够在面对新问题时具备灵活思考的能力。在与ChatGPT-4o就“爱丽丝”相关问题的对话中，我们进一步验证了AI在推理方面的不足，这表明当前技术距离实现真正的智能仍有较大差距。未来，AI的发展亟需在深度学习和主动推理能力上取得突破，才能实现真正的智能演进。接下来，通过对 Number Sequence Puzzle、Visual Reasoning Problem 和 Logical Sequence Questions 等领域的对话，我们总结了ChatGPT-4o与人类对话中存在错误的案例，并将在后续研究中进一步探讨这些问题。
@@ -286,17 +286,108 @@
 
 ## 33. Visual Reasoning Problem
 
-### Answer:
+### Answer: D
 
-<img src=" " width="99%" height="50%">
+<img src="https://github.com/user-attachments/assets/b10040ca-0145-40dc-a981-4cab49491b14" width="99%" height="50%">
 
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/9e1778fe-ceca-4118-943d-5bc142000b7f" width="49%" height="50%">
 
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/65616fe6-b240-4f16-9f3a-000c09fec139" width="49%" height="50%">
 
+<img src="https://github.com/user-attachments/assets/e8810ca5-5b3b-4262-8a81-736226dabf77" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/664cd748-f85e-4c88-8ca0-7367274bce8e" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/76505ff8-838b-4f9e-a629-8d9bae6baa6f" width="49%" height="50%">
 
 ## 34. Visual Reasoning Problem
 
+### Answer: A
+
+<img src="https://github.com/user-attachments/assets/ff867541-f9cc-49c5-aba6-9a234dd28514" width="99%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/21337329-3e8f-40fd-b9ef-eed65f779edf" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/98afb0de-c88e-4a41-9ee7-cc302eb03b10" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/fac9a705-54d3-4944-8d17-f4623fdc207d" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/92f349d1-2cc4-4f75-9c40-877ac564999e" width="49%" height="50%">
+
+## 35. Visual Reasoning Problem
+
+### Answer: D _(GPT answered right)_
+
+<img src="https://github.com/user-attachments/assets/60391ee0-1e25-44d6-a04f-cee85f91165" width="99%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/254e21a0-eb8f-49b6-8b01-749b7d4fd6f5" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/1b56d571-e5bf-4085-b6d4-a8eb1bf53dab" width="49%" height="50%">
+
+## 36. Visual Reasoning Problem
+
+### Answer: A
+
+<img src="https://github.com/user-attachments/assets/e2025a8c-b175-4dd8-bfca-d9fae3007446" width="99%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/3c91c5e5-8044-4658-b4ff-5a377588f93b" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/3c91c5e5-8044-4658-b4ff-5a377588f93b" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/98febdcc-746a-420b-921d-4fce3dc00799" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/254e2064-2de4-46fa-a28b-f1a192ec485d" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/c6df443a-9c4e-481a-8641-570841b542e0" width="49%" height="50%">
+
+## 37. Visual Reasoning Problem
+
+### Answer:
+
+<img src=" " width="99%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+## 38. Visual Reasoning Problem
+
+### Answer: C
+
+<img src="https://github.com/user-attachments/assets/bad288d9-a874-4b7c-8a7b-3002d981e8df" width="99%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/f7bfadc9-2f52-4146-bb1f-2dcfd85d92cb" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/9a5efd02-13f8-4575-b488-a81a69e08b57" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/6cf9cde9-c0c1-421d-9f49-3617ba4bac8e" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/f457f91f-ce7a-4e83-a0f2-9639143fcf16" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/146dbe01-4d58-4a91-b9e3-09d91fa86463" width="49%" height="50%">
+
+## 39. Visual Reasoning Problem
+
+### Answer: B _(GPT answered right)_
+
+<img src="https://github.com/user-attachments/assets/00209cee-c5f5-4d00-97ef-070d39cc160a" width="99%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/0f9ce76a-9e46-4149-9942-4eef009c6c5b" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/8c17fbd8-19a6-4db5-8d3e-1876ef30c5bd" width="49%" height="50%">
+
+## 40. Visual Reasoning Problem
+
+### Answer: C _(GPT answered right)_
+
+<img src="https://github.com/user-attachments/assets/a9187300-1d90-43fa-ab58-c00c34d25125" width="99%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/2c78770f-e2b3-49df-98e5-dacde55b0bc6" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/f7b25921-112a-477b-94fe-9d3d255d4f43" width="49%" height="50%">
+
+## 41. Visual Reasoning Problem
+
 ### Answer:
 
 <img src=" " width="99%" height="50%">
@@ -306,11 +397,92 @@
 <img src=" " width="49%" height="50%">
 
 
+## 42. Visual Reasoning Problem
 
+### Answer:
 
+<img src=" " width="99%" height="50%">
 
+<img src=" " width="49%" height="50%">
 
+<img src=" " width="49%" height="50%">
 
+## 43. Visual Reasoning Problem
 
+### Answer:
+
+<img src=" " width="99%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+## 44. Visual Reasoning Problem
+
+### Answer:
+
+<img src=" " width="99%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+## 45. Visual Reasoning Problem
+
+### Answer:
+
+<img src=" " width="99%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+## 46. Visual Reasoning Problem
+
+### Answer:
+
+<img src=" " width="99%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
  
+## 47. Visual Reasoning Problem
 
+### Answer:
+
+<img src=" " width="99%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+## 48. Visual Reasoning Problem
+
+### Answer:
+
+<img src=" " width="99%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+## 49. Visual Reasoning Problem
+
+### Answer:
+
+<img src=" " width="99%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+## 50. Visual Reasoning Problem
+
+### Answer:
+
+<img src=" " width="99%" height="50%">
+
+<img src=" " width="49%" height="50%">
+
+<img src=" " width="49%" height="50%">
