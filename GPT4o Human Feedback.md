@@ -4,8 +4,11 @@
 当前大型语言模型（LLM）的智能性仍有待进一步提升。尽管这些模型在数据压缩和记忆方面表现出色，但它们在推理能力上仍然存在明显不足。通过“爱丽丝梦游仙境”测试，我们发现LLM在解决推理问题时频繁失败，显示出它们更擅长复述既有的模式，而无法灵活应对未知问题。AI发展的真正挑战在于从单纯的记忆向主动推理转变，能够在面对新问题时具备灵活思考的能力。在与ChatGPT-4o就“爱丽丝”相关问题的对话中，我们进一步验证了AI在推理方面的不足，这表明当前技术距离实现真正的智能仍有较大差距。未来，AI的发展亟需在深度学习和主动推理能力上取得突破，才能实现真正的智能演进。接下来，通过对 Number Sequence Puzzle、Visual Reasoning Problem 和 Logical Sequence Questions 等领域的对话，我们总结了ChatGPT-4o与人类对话中存在错误的案例，并将在后续研究中进一步探讨这些问题。
 
 
-> <img src="https://github.com/user-attachments/assets/36144833-d534-4620-a06e-f363826b13e4" width="100%" height="50%">
-> <img src="https://github.com/user-attachments/assets/7ee735c2-f892-4bd0-83f1-6368c9a5d7f8" width="100%" height="50%">
+> <img src="https://github.com/user-attachments/assets/36144833-d534-4620-a06e-f363826b13e4" width="49%" height="50%">
+> <img src="https://github.com/user-attachments/assets/7ee735c2-f892-4bd0-83f1-6368c9a5d7f8" width="45%" height="50%">
+
+## Conclusion
+
 
 ----
 
