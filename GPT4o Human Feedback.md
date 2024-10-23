@@ -1,4 +1,4 @@
-<img width="774" alt="Screenshot 2024-10-23 at 8 11 50 PM" src="https://github.com/user-attachments/assets/30e030e9-93e6-4744-9ddc-d47483a3fcd1"># GPT4o Human Feedback
+<img width="774" alt="Screenshot 2024-10-23 at 8 36 27 PM" src="https://github.com/user-attachments/assets/4598792a-eab2-4124-ae41-32f216b75962"><img width="853" alt="Screenshot 2024-10-23 at 8 31 26 PM" src="https://github.com/user-attachments/assets/162939df-74b0-475d-9d7d-e1dae62e0741"><img width="774" alt="Screenshot 2024-10-23 at 8 23 34 PM" src="https://github.com/user-attachments/assets/4e7e045a-0605-4dfc-99c7-ada5d462ca85"><img width="774" alt="Screenshot 2024-10-23 at 8 11 50 PM" src="https://github.com/user-attachments/assets/30e030e9-93e6-4744-9ddc-d47483a3fcd1"># GPT4o Human Feedback
 ----
 
 当前大型语言模型（LLM）的智能性仍有待进一步提升。尽管这些模型在数据压缩和记忆方面表现出色，但它们在推理能力上仍然存在明显不足。通过“爱丽丝梦游仙境”测试，我们发现LLM在解决推理问题时频繁失败，显示出它们更擅长复述既有的模式，而无法灵活应对未知问题。AI发展的真正挑战在于从单纯的记忆向主动推理转变，能够在面对新问题时具备灵活思考的能力。在与ChatGPT-4o就“爱丽丝”相关问题的对话中，我们进一步验证了AI在推理方面的不足，这表明当前技术距离实现真正的智能仍有较大差距。未来，AI的发展亟需在深度学习和主动推理能力上取得突破，才能实现真正的智能演进。接下来，通过对 Number Sequence Puzzle、Visual Reasoning Problem 和 Logical Sequence Questions 等领域的对话，我们总结了ChatGPT-4o与人类对话中存在错误的案例，并将在后续研究中进一步探讨这些问题。
@@ -269,7 +269,6 @@
 
 <img src="https://github.com/user-attachments/assets/1f031b46-565e-423a-b272-04c9e00940ed" width="49%" height="50%">
 
-
 ## 32. Visual Reasoning Problem
 
 ### Answer: B
@@ -342,13 +341,17 @@
 
 ## 37. Visual Reasoning Problem
 
-### Answer:
+### Answer: D
 
-<img src=" " width="99%" height="50%">
+<img src="https://github.com/user-attachments/assets/bbfee02d-9eb2-4bfa-a470-b7a40fcf05a8" width="99%" height="50%">
 
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/6c549d12-2a4a-4033-94a1-73dc79def159" width="49%" height="50%">
 
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/571dcd70-9af6-43ff-b02d-6b9738c9a917" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/69b37bde-a99d-442e-8b02-8af7b15b0a36" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/ec03bef1-c03f-48cb-9b71-39302a5b9813" width="49%" height="50%">
 
 ## 38. Visual Reasoning Problem
 
@@ -388,101 +391,113 @@
 
 ## 41. Visual Reasoning Problem
 
-### Answer:
+### Answer: B _(GPT answered right)_
 
-<img src=" " width="99%" height="50%">
+<img src="https://github.com/user-attachments/assets/5875b153-5b29-4b75-a901-770f58a4900d" width="99%" height="50%">
 
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/658b6967-9fcc-4462-89bf-dd40dc75b267" width="49%" height="50%">
 
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/1f4f085c-7455-4649-a580-372b5503f346" width="49%" height="50%">
 
 
 ## 42. Visual Reasoning Problem
 
-### Answer:
+### Answer: A _(GPT answered right)_
 
-<img src=" " width="99%" height="50%">
+<img src="https://github.com/user-attachments/assets/1faccfa5-2da4-4ad8-b060-083abb382d1c" width="99%" height="50%">
 
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/8c840538-57cf-42ab-97ec-a3df1bac253b" width="49%" height="50%">
 
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/bc45fe63-1978-4793-a496-b5f9465b049e" width="49%" height="50%">
 
 ## 43. Visual Reasoning Problem
 
-### Answer:
+### Answer: D _(GPT answered right)_
 
-<img src=" " width="99%" height="50%">
+<img src="https://github.com/user-attachments/assets/ddb4bedf-a65a-41ca-85ed-c382c4b412ec" width="99%" height="50%">
 
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/eae65faf-f6fd-44b1-a667-83581fad8613" width="49%" height="50%">
 
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/e09033b5-d6d4-4a40-a43b-75fc144ad625" width="49%" height="50%">
 
 ## 44. Visual Reasoning Problem
 
-### Answer:
+### Answer: B _(GPT answered right)_
 
-<img src=" " width="99%" height="50%">
+<img src="https://github.com/user-attachments/assets/5359f904-4119-479e-a67e-580b9c49b785" width="99%" height="50%">
 
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/705035f1-7482-4f96-ad65-be3bd29b19fe" width="49%" height="50%">
 
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/45bdb1fb-cbad-4e8c-bd70-f069857de671" width="49%" height="50%">
 
 ## 45. Visual Reasoning Problem
 
-### Answer:
+### Answer: A _(GPT answered right)_
 
-<img src=" " width="99%" height="50%">
+<img src="https://github.com/user-attachments/assets/fd2d5e4d-a55f-4a02-a6ea-98f81c0b4ed0" width="99%" height="50%">
 
-<img src=" " width="49%" height="50%">
-
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/b65cebcf-fc4d-4af5-87c4-fdca4daf63e5" width="49%" height="50%">
 
 ## 46. Visual Reasoning Problem
 
-### Answer:
+### Answer: C
 
-<img src=" " width="99%" height="50%">
+<img src="https://github.com/user-attachments/assets/656daf93-37b9-4379-912c-d43f118aef8c" width="99%" height="50%">
 
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/871843f9-79d8-43d7-b7f4-0789073b2114" width="49%" height="50%">
 
-<img src=" " width="49%" height="50%">
- 
+<img src="https://github.com/user-attachments/assets/4be22d64-5dd0-40a0-aef4-851d951df528" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/1e845692-d356-495e-b63a-ba8c9074cba9" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/12d34af8-52e3-4e49-b04b-015bad1fbdac" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/0b6ff3b8-3045-4ed2-bd41-7160952af11e" width="49%" height="50%">
+
 ## 47. Visual Reasoning Problem
 
-### Answer:
+### Answer: D
 
-<img src=" " width="99%" height="50%">
+<img src="https://github.com/user-attachments/assets/1d7bb236-ed0e-423a-abd5-56d933edb19d" width="99%" height="50%">
 
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/689d0ade-3864-4434-a6e6-408e4d33eadf" width="49%" height="50%">
 
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/80fec1e4-2a51-408e-86a4-1439093622da" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/4742d5f5-d3f5-43c3-81d4-d1f5d86ff70f" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/b5548a97-14bc-4590-8008-694f4642e65e" width="49%" height="50%">
 
 ## 48. Visual Reasoning Problem
 
-### Answer:
+### Answer: C _(GPT answered right)_
 
-<img src=" " width="99%" height="50%">
+<img src="https://github.com/user-attachments/assets/e440e49c-e9ca-4345-a889-90e7bbef19c6" width="99%" height="50%">
 
-<img src=" " width="49%" height="50%">
-
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/c54f8283-442d-4328-bd32-255ae190b087" width="49%" height="50%">
 
 ## 49. Visual Reasoning Problem
 
-### Answer:
+### Answer: D
 
-<img src=" " width="99%" height="50%">
+<img src="https://github.com/user-attachments/assets/d7e44211-60d2-4235-be21-923c4fc01693" width="99%" height="50%">
 
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/a897eddf-d47a-4dce-bae4-e4eda8f5d72f" width="49%" height="50%">
 
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/5859ba69-7bbb-4e1a-a737-6e36671caf92" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/dc1c8d80-6988-44f2-94a4-a9980340b5e6" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/c29e3d7b-04d9-442d-bf9f-efac3309e04c" width="49%" height="50%">
 
 ## 50. Visual Reasoning Problem
 
-### Answer:
+### Answer: D
 
-<img src=" " width="99%" height="50%">
+<img src="https://github.com/user-attachments/assets/d28833d4-32be-4a10-8366-ab55f1f59778" width="99%" height="50%">
 
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/2dcd6d14-79fd-4b9a-9a3e-fa43ebd3fce6" width="49%" height="50%">
 
-<img src=" " width="49%" height="50%">
+<img src="https://github.com/user-attachments/assets/e28ccdbb-a708-4e09-a7af-066b766b4624" width="49%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/aa85e8bb-127a-42c2-88d3-206eab2518ec" width="49%" height="50%">
