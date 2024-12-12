@@ -38,6 +38,14 @@
 
 ### 7 - 12 GPT-4o with Human Feedback
 
+> <img width="720" alt="Screenshot 2024-12-12 at 7 10 52 AM" src="https://github.com/user-attachments/assets/13a487c4-2ede-4769-a354-51c750d768c4" />
+> <img width="720" alt="Screenshot 2024-12-12 at 7 11 17 AM" src="https://github.com/user-attachments/assets/b86b9352-7336-4d99-83fb-2a35facbbd6d" />
+> <img width="720" alt="Screenshot 2024-12-12 at 7 11 30 AM" src="https://github.com/user-attachments/assets/e4fbd9c2-b06a-46a2-bace-3a49a24a4b46" />
+> <img width="720" alt="Screenshot 2024-12-12 at 7 11 45 AM" src="https://github.com/user-attachments/assets/58948e18-63b3-4539-9886-412aa088b304" />
+> <img width="720" alt="Screenshot 2024-12-12 at 7 12 32 AM" src="https://github.com/user-attachments/assets/b1208496-605d-42f2-8217-e9586b7a159b" />
+> <img width="720" alt="Screenshot 2024-12-12 at 7 12 55 AM" src="https://github.com/user-attachments/assets/e9bffc71-415a-4dd3-9b69-bfc3f0c8fc5a" />
+> <img width="720" alt="Screenshot 2024-12-12 at 7 13 33 AM" src="https://github.com/user-attachments/assets/a8f1b6e0-dd8c-4625-ba3e-da4addbbbfd9" />
+
 
 ### 7 - 12 Summary
 
